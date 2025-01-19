@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+D:\Project\Ckart\.metadata\.plugins\org.eclipse.jdt.core
-982398194.index
-1865797976.index
-1189343029.index
